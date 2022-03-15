@@ -57,12 +57,13 @@ body {
 	background-color:#F2F2F2;
 }
 .Header-text{
-    font-family: dr-sugiyama;
+    font-family: nova-mono;
     color: #0B1547;
     font-style: normal;
     font-weight: 400;
 }
 .fw-bolder{
     font-family: "bubbler-one";
-    color: #FFFFFF
+    color: #FFFFFF;
+	font-weight: 700
 }
