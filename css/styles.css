@@ -6,9 +6,11 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #343F40;
-	background-color: #f8f8fc;
+    font-family: bubbler-one;
+    color: #343F40;
+    background-color: #f8f8fc;
+    font-style: normal;
+    font-weight: 400;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -53,4 +55,14 @@ body {
 }
 .language-progress{
 	background-color:#F2F2F2;
+}
+.Header-text{
+    font-family: dr-sugiyama;
+    color: #0B1547;
+    font-style: normal;
+    font-weight: 400;
+}
+.fw-bolder{
+    font-family: "bubbler-one";
+    color: #FFFFFF
 }
